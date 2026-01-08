@@ -1,5 +1,5 @@
 ### About Me
-I am a Research Software Engineer at the British Antarctic Survey. 
+I am a Senior Research Software Engineer at the British Antarctic Survey. 
 My interest is in facilitating the best possible practice in research computing, from good training to advocating reproducible scientific software methods.
 
 As of 2022 I am a [Fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby), with a particular interest in developing training and guidance for reproducible methods in Matlab.
@@ -18,9 +18,8 @@ polarized signals; and doing R&D on TeraHertz electronics for space science.
 ### Links
 * [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
 * [Google Scholar](http://bit.ly/wilbyScholar)
-* [RSE @ Sheffield](https://rse.shef.ac.uk)
-* [My GitHub Profile](https://github.com/davidwilby)
-* <a rel="me" href="https://fosstodon.org/@davidwilby">Mastodon</a>
+* [My GitHub Profile](https://github.com/davidwyld)
+* <a rel="me" href="https://mastodon.green/@davidwyld">Mastodon</a>
 
 ### Resources
 * [Research Software Methods Lecture for Undergrads](https://github.com/davidwilby/ResearchSoftwareMethods) - [*video*](https://rse.shef.ac.uk/blog/2021-05-25-methods-ug-talk/)
